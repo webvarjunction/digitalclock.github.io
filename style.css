@@ -7,7 +7,7 @@
 #container{
     width: 40vw;
     height: 40vw;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     background: url("clock.png") no-repeat;
     background-size: 100%;
     margin: auto;
